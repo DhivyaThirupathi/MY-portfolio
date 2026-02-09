@@ -51,7 +51,7 @@ export default function Projects() {
       description: 'A modern and responsive personal portfolio website showcasing projects, skills, experience, and achievements with a clean UI and smooth animations.',
       technologies: ['React.js', 'TypeScript', 'Tailwind CSS', 'HTML5', 'CSS3', 'JavaScript', 'GitHub', 'Vite'],
       github: 'https://github.com/DhivyaThirupathi/DHIVYA-portfolio',
-      live: 'https://demo.com',
+      live: 'https://steady-alfajores-ebb796.netlify.app/',
       image: '/dhivya.png'
     }
   ];
