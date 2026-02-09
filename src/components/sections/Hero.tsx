@@ -162,7 +162,7 @@ export default function Hero() {
             "
           >
             <Download size={20} />
-            Download Resume
+             Resume
           </Button>
         </div>
 
